@@ -1,0 +1,15 @@
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\bin\Debug\net5.0\Part 2 Lesson 6.2.exe
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\bin\Debug\net5.0\Part 2 Lesson 6.2.deps.json
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\bin\Debug\net5.0\Part 2 Lesson 6.2.runtimeconfig.json
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\bin\Debug\net5.0\Part 2 Lesson 6.2.runtimeconfig.dev.json
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\bin\Debug\net5.0\Part 2 Lesson 6.2.dll
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\bin\Debug\net5.0\ref\Part 2 Lesson 6.2.dll
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\bin\Debug\net5.0\Part 2 Lesson 6.2.pdb
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\obj\Debug\net5.0\Part 2 Lesson 6.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\obj\Debug\net5.0\Part 2 Lesson 6.2.AssemblyInfoInputs.cache
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\obj\Debug\net5.0\Part 2 Lesson 6.2.AssemblyInfo.cs
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\obj\Debug\net5.0\Part 2 Lesson 6.2.csproj.CoreCompileInputs.cache
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\obj\Debug\net5.0\Part 2 Lesson 6.2.dll
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\obj\Debug\net5.0\ref\Part 2 Lesson 6.2.dll
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\obj\Debug\net5.0\Part 2 Lesson 6.2.pdb
+D:\visual Project\КУРСЫ GEKK BRAINS\Part 2.1 Lesson 6\Part 2 Lesson 6.2\obj\Debug\net5.0\Part 2 Lesson 6.2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vP/lWVkOh6pvao2Y27AFuvR+DFoa42uxa+NiurJCck3UXNwgcYc7Ds34pBkP11bDSB+1N/yLT10v1OCZrLZxeA==",
+  "success": true,
+  "projectFilePath": "D:\\visual Project\\КУРСЫ GEKK BRAINS\\Part 2.1 Lesson 6\\Part 2.1 Lesson 6\\Part 2.1 Lesson 6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matvey\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\matvey\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\matvey\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\matvey\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
